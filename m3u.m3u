@@ -1,36 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JFScp4g2/1000284128.png", group-title="WCup",FIFA WORLD CUP 2026
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/eYP_0o2cnt.jpg", 
+
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/JFScp4g2/1000284128.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png", group-title="WCup",FIFA WORLD CUP 2026
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/CpxyjYHH/1000284129.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/3421.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png", group-title="WCup",FIFA WORLD CUP 2026
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png", FIFA WORLD CUP 2026
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xgrmMQ7/1000284130.png", group-title="WCup", T Sports
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png", T Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", group-title="WCup",FIFA WORLD CUP 2026
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", group-title="WCup",FIFA WORLD CUP 2026
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWVj7khh/1000284377.png", group-title="WCup",FIFA WORLD CUP 2026
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/JWVj7khh/1000284377.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", group-title="WCup",FIFA WORLD CUP 2026
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png", group-title="WCup",FIFA WORLD CUP 2026
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png", FIFA WORLD CUP 2026
 http://103.204.43.87:8080/live/1/1/313.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png", group-title="WCup",FIFA WORLD CUP 2026
-https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/portal-torongoplus/tv.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", group-title="WCup",FIFA WORLD CUP 2026
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", group-title="WCup",FIFA WORLD CUP 2026
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", FIFA WORLD CUP 2026
 http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png" group-title="WCup",Tapmad
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/Lz0LwsvR/images-q-tbn-ANd9-Gc-Suhba0t-Co-Ao5p-OAw-K1k2q-B1r0e-Q5-Vmw6ke-Bw-s.jpg", Mr Bean
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz0LwsvR/images-q-tbn-ANd9-Gc-Suhba0t-Co-Ao5p-OAw-K1k2q-B1r0e-Q5-Vmw6ke-Bw-s.jpg", Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573d1e786c618c84c83f64cef04582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9e75c45dd6da9e5014e907d13fa83439fd501e98585598344d375f642cb92f189d44483e4ab599975824e6912422ff9bab4f2a3529bd5806035907067135005a6eba4f740388950501cd6cb8bee35b14395c912886e61ef5bd857d264c32b8b19b7ed4b97a8b9f44b5576f1970c2f74f6a5e8a1d3011e912abbaee0d6763cbef3177348802dfb2a39379df88445d09a5bc6f873cbe4292e39c6905792d2e7d0b8fede1cee50a0adc391334641741742d70dd0fd43ef698c28e69e6962362b63a29552c883a32e136a5d898d5b945e5b8ed28587d0192888073f5ffb6bcd541566af653a2e054c390bf7ddef152db3aebbfb632c05cca00cec6632c8/162/1920x1080_6046040/index.m3u8
 
 
