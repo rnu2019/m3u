@@ -34,6 +34,9 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 group-title="WCup" , Fox
 http://84.17.50.102/fox/index.m3u8
 
+#EXTINF:-1 group-title="WCup" , Go Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 
@@ -43,7 +46,7 @@ https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", D Sports
+#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", D Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
