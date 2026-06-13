@@ -4,31 +4,28 @@
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD B
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", T Sports HD B
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", FIFA WORLD CUP 2026
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Zee Bangla Cinema
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", FIFA WORLD CUP 2026
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", Bein Sports 1 Max
+http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 Max 
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", Bein Sports 2 Max
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/JWVj7khh/1000284377.png", FIFA WORLD CUP 2026
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/JWVj7khh/1000284377.png", Bein Sports 5 Max
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", FIFA WORLD CUP 2026
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png", FIFA WORLD CUP 2026
-http://103.204.43.87:8080/live/1/1/313.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", FIFA WORLD CUP 2026
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", FIFA WORLD CUP 2026
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", Unite Sports 2 HD
 http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Dazn Direct
@@ -36,9 +33,6 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TVP Sports
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TVP Sports
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
@@ -52,17 +46,10 @@ https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Tv Azteca
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Tudn Sports
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", El Heddaf
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/7731.ts
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball Tv
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 Max 
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
+
 
 
 
