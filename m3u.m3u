@@ -10,13 +10,10 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope
 https://sm-monirul.top/ott/live/bioscope.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Zee Bangla Cinema
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", Bein Sports 1 Max
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1 Max 
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", Bein Sports 1 Max
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1 Max 
 https://no-red.pages.dev/liveop2.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1 Max 
@@ -73,6 +70,9 @@ https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/KjcJgFbN/616599739-917406734141048-1465297561320197061-n.jpg", TVRI Sports
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", Zee BanglaSonar
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TYC Sports
