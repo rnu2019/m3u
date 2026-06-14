@@ -31,8 +31,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Dazn Direct
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 group-title="WCup" , Fox
-http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
+https://fifaexclusive.myziboplay.xyz/Fifa/tracks-v1a1/mono.m3u8?token=fe6Uuugm3xgIm2
 
 #EXTINF:-1 group-title="WCup" , Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
@@ -54,11 +54,16 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball Tv
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
 
-#EXTINF:-1 group-title="WCup" tvg-name="Fox 4K",Fox 4K
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", Fox
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/KjcJgFbN/616599739-917406734141048-1465297561320197061-n.jpg", TVRI Sports
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TYC Sports
