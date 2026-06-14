@@ -7,11 +7,17 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png", T Sports HD B
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope
+https://sm-monirul.top/ott/live/bioscope.m3u8
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Zee Bangla Cinema
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", Bein Sports 1 Max
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/mCFTjfx6/1000284328.png", Bein Sports 1 Max
+https://no-red.pages.dev/liveop2.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1 Max 
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
@@ -34,7 +40,10 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fVNkcnjf/image-2026-06-14-23-15-38.png", Zibo play
 https://fifaexclusive.myziboplay.xyz/Fifa/tracks-v1a1/mono.m3u8?token=fe6Uuugm3xgIm2
 
-#EXTINF:-1 group-title="WCup" , Go Live
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fVNkcnjf/image-2026-06-14-23-15-38.png", Zibo play
+https://fifaexclusive.myziboplay.xyz/Fifa/index.m3u8?token=w-u1u1kQuxLcg3
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/Df95wj9j/image-2026-06-14-23-41-51.png", Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
