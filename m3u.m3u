@@ -29,10 +29,10 @@ https://no-red.pages.dev/liveop2.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein Sports 1 Max 
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/4ZLsq041/1000284329.png", Bein Sports 2 Max
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein Sports 2 Max
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/JWVj7khh/1000284377.png", Bein Sports 5 Max
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein Sports 5 Max
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/HTn8c6PC/w-BSj-G63-C.jpg", Bein Sports 3
@@ -42,16 +42,16 @@ http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="WCup",WIN Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2Z2jsCj/image-2026-06-16-01-11-33.png" group-title="WCup",WIN Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", (Hindi) Unite Sports 1 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/L8N846qr/image-2026-06-16-01-14-53.png", (Hindi) Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", (Eng) Unite Sports 2 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", (Eng) Unite Sports 2 HD
 http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", (Eng) Unite Sports 2 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", (Eng) Unite Sports 2 HD
 http://202.70.146.135:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/nsW1DJXh/image-2026-06-14-23-07-31.png", Dazn Direct
