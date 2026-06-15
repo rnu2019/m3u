@@ -54,6 +54,9 @@ http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", (Eng) Unite Sports 2 HD
 http://202.70.146.135:8000/play/a06s/index.m3u8
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", (Eng) Unite Sports 2 HD
+https://fifaexclusive.myziboplay.xyz/Fifa/index.m3u8?token=fe6Uuugm3xgIm2
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/nsW1DJXh/image-2026-06-14-23-07-31.png", Dazn Direct
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
@@ -139,8 +142,10 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", Zee BanglaSonar
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", Zee BanglaSonar
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TYC Sports
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
