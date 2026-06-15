@@ -36,11 +36,14 @@ http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", Unite Sports 1 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", (Hindi) Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", Unite Sports 2 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", (Eng) Unite Sports 2 HD
 http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/S4DXyQkZ/1000284105.png", (Eng) Unite Sports 2 HD
+http://202.70.146.135:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/nsW1DJXh/image-2026-06-14-23-07-31.png", Dazn Direct
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
@@ -74,6 +77,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
 http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/DPPxdQD9/Go3-Sport.jpg", Go3 Sport3 (4K)
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
@@ -160,30 +166,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 #-----------------------------------------------------------------------------------------------------------------------------------------
 
-#-----------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026" group-title="",Football World Cup 2026 1
-http://202.70.146.135:8000/play/a06s/index.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="", Go3 (4K)
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
-
-
-
-
-
-
-#-----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz0LwsvR/images-q-tbn-ANd9-Gc-Suhba0t-Co-Ao5p-OAw-K1k2q-B1r0e-Q5-Vmw6ke-Bw-s.jpg", Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573d1e786c618c84c83f64cef04582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9e75c45dd6da9e5014e907d13fa83439fd501e98585598344d375f642cb92f189d44483e4ab599975824e6912422ff9bab4f2a3529bd5806035907067135005a6eba4f740388950501cd6cb8bee35b14395c912886e61ef5bd857d264c32b8b19b7ed4b97a8b9f44b5576f1970c2f74f6a5e8a1d3011e912abbaee0d6763cbef3177348802dfb2a39379df88445d09a5bc6f873cbe4292e39c6905792d2e7d0b8fede1cee50a0adc391334641741742d70dd0fd43ef698c28e69e6962362b63a29552c883a32e136a5d898d5b945e5b8ed28587d0192888073f5ffb6bcd541566af653a2e054c390bf7ddef152db3aebbfb632c05cca00cec6632c8/162/1920x1080_6046040/index.m3u8
