@@ -26,6 +26,13 @@ http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/JWVj7khh/1000284377.png", Bein Sports 5 Max
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
+#EXTINF:-1 group-title="WCup" tvg-logo="", Bein Sports 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
@@ -68,6 +75,13 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/26
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", Fox
 http://84.17.50.102/fox/index.m3u8
 
@@ -75,6 +89,13 @@ http://84.17.50.102/fox/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/enc/dmvfmt2ebu/out/v1/9e895e2c1c894a75ac6d21a4deddd5d3/cenc.mpd
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/KjcJgFbN/616599739-917406734141048-1465297561320197061-n.jpg", TVRI Sports
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8
