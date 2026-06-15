@@ -14,13 +14,13 @@ http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
 https://sm-monirul.top/ott/live/bioscope.m3u8
 #https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1 Max 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1 Max 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1 Max 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1
 https://no-red.pages.dev/liveop2.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M5kVgDPt/image-2026-06-14-23-06-29.png", Bein Sports 1 Max 
@@ -57,9 +57,6 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fVNkcnjf/image-2026-06-14-23-15-38.png", Zibo play
 https://fifaexclusive.myziboplay.xyz/Fifa/tracks-v1a1/mono.m3u8?token=fe6Uuugm3xgIm2
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fVNkcnjf/image-2026-06-14-23-15-38.png", Zibo play
-https://fifaexclusive.myziboplay.xyz/Fifa/index.m3u8?token=w-u1u1kQuxLcg3
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/Df95wj9j/image-2026-06-14-23-41-51.png", Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
@@ -87,14 +84,14 @@ http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/26
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/3m3bBqX0/500px-Go3-Sport-3-Logo-2023-svg.png", Go3 Sport3 (4K)
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv2
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv1
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv1
-http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv2
+http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv
 #KODIPROP:inputstream=inputstream.adaptive
