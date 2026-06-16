@@ -43,6 +43,27 @@ http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO SPANISH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/TwzsjxW7/image-2026-06-17-01-25-19.png", SPORZA SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", (Hindi) Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
@@ -89,18 +110,25 @@ http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", Fussball Tv2
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox 4K
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox Sports 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox Sports 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", Fox Sports
+https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k52Y1Vsk/image-2026-06-16-22-43-33.png",FOX SPORTS 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", Fox Sports
+http://84.17.50.102/fox/index.m3u8
+
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/nNwx9T1c/image.png",Worldcup tv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -142,46 +170,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",SporTV 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FOX SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TELEMUNDO - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", D SPORTS - AQ [ES]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", RTBGO - AQ
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", CAZE TV - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TELEMUNDO SPANISH
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+#--------------------------------------------------------------------------------------------------------------------------------------------
+#not sure if they stream wcup
 
 #EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", ZDF GERMAN HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -190,27 +182,31 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813
 https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd
 
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", SPORZA SPORTS
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k52Y1Vsk/image-2026-06-16-22-43-33.png",FOX SPORTS 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
-
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FOX SPORTS HD
-https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", RTBGO - AQ
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#--------------------------------------------------------------------------------------------------------------------------------------------
-#not sure if they stream wcup
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", Fox
-http://84.17.50.102/fox/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #inactive
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",SporTV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+
+#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", CAZE TV - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope
 https://sm-monirul.top/ott/live/bioscope.m3u8
@@ -219,11 +215,7 @@ https://sm-monirul.top/ott/live/bioscope.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/3m3bBqX0/500px-Go3-Sport-3-Logo-2023-svg.png", Go3 Sport3 (4K)
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
-
 #--------------------------------------------------------------------------------------------------------------------------------------------
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz0LwsvR/images-q-tbn-ANd9-Gc-Suhba0t-Co-Ao5p-OAw-K1k2q-B1r0e-Q5-Vmw6ke-Bw-s.jpg", Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573d1e786c618c84c83f64cef04582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9e75c45dd6da9e5014e907d13fa83439fd501e98585598344d375f642cb92f189d44483e4ab599975824e6912422ff9bab4f2a3529bd5806035907067135005a6eba4f740388950501cd6cb8bee35b14395c912886e61ef5bd857d264c32b8b19b7ed4b97a8b9f44b5576f1970c2f74f6a5e8a1d3011e912abbaee0d6763cbef3177348802dfb2a39379df88445d09a5bc6f873cbe4292e39c6905792d2e7d0b8fede1cee50a0adc391334641741742d70dd0fd43ef698c28e69e6962362b63a29552c883a32e136a5d898d5b945e5b8ed28587d0192888073f5ffb6bcd541566af653a2e054c390bf7ddef152db3aebbfb632c05cca00cec6632c8/162/1920x1080_6046040/index.m3u8
