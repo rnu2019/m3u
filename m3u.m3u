@@ -43,9 +43,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2Z2jsCj/image-2026-06-16-01-11-33.png" group-title="WCup",WIN Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", (Hindi) Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
@@ -67,9 +64,6 @@ https://fifaexclusive.myziboplay.xyz/Fifa/tracks-v1a1/mono.m3u8?token=fe6Uuugm3x
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/Df95wj9j/image-2026-06-14-23-41-51.png", Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M537kX22/JL1-YCDl-A.jpg", TVP Sports
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -115,26 +109,29 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/KjcJgFbN/616599739-917406734141048-1465297561320197061-n.jpg", TVRI Sports
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/jdLLgtNH/image-2026-06-16-23-24-41.png", TYC Sports
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/R47L8phT/image-2026-06-15-00-05-15.png", Tv Azteca
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/j9tcsgNQ/1280px-HK-now-TV-logo-svg.png", Now Tv
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/j9tcsgNQ/1280px-HK-now-TV-logo-svg.png", Now Tv (4k)
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2Z2jsCj/image-2026-06-16-01-11-33.png" group-title="WCup",WIN Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/M537kX22/JL1-YCDl-A.jpg", TVP Sports
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/KjcJgFbN/616599739-917406734141048-1465297561320197061-n.jpg", TVRI Sports
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/R47L8phT/image-2026-06-15-00-05-15.png", Tv Azteca
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
 
-
-
-
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/jdLLgtNH/image-2026-06-16-23-24-41.png", TYC Sports
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
 
 
