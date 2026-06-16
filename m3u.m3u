@@ -13,7 +13,8 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy TV
+http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/V6GBptBM/image-2026-06-16-12-46-49.png", Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -69,6 +70,9 @@ https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.ism
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", (Hindi) Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", (Hindi) Unite Sports 1 HD
+https://ads-27727.icu/un.php?id=2|User-Agent=andriod
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", (Eng) Unite Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
