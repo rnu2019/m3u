@@ -43,19 +43,22 @@ http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO - AQ
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO SPANISH
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/TwzsjxW7/image-2026-06-17-01-25-19.png", SPORZA SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
@@ -66,6 +69,9 @@ https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.ism
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", (Hindi) Unite Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", (Eng) Unite Sports 2 HD
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", (Eng) Unite Sports 2 HD
 http://starhub.pro/live/farhat-3379/67897-913379/98841.ts
@@ -130,6 +136,7 @@ http://84.17.50.102/fox/index.m3u8
 
 
 
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/nNwx9T1c/image.png",Worldcup tv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -139,7 +146,7 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/j9tcsgNQ/1280px-HK-now-TV-logo-svg.png", Now Tv (4k)
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/j9tcsgNQ/1280px-HK-now-TV-logo-svg.png",616 Sports (4k)
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
