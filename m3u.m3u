@@ -8,9 +8,6 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts﻿
 http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
 http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
@@ -22,10 +19,10 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy TV
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
 http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
@@ -237,7 +234,8 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #inactive
 
-
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports change
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
 #KODIPROP:inputstream=inputstream.adaptive
