@@ -43,6 +43,9 @@ http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWl
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein Sports 2 Max
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein Sports 3 Max
+http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein Sports 5 Max
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
@@ -133,6 +136,13 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/zWbgHdVy/image-2026-06-15-10-36-57.png", D Sports+
 #KODIPROP:inputstream=inputstream.adaptive
