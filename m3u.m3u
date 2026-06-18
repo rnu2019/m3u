@@ -362,25 +362,25 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8%7Ccoo
 https://cdn-tt.pages.dev/ch1.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781708413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8AXJXmgpfdZcGfetuV270IwgzpP_x3qubSjdpz6eAwkWpymuMhhJH5fLuJqkukWEgk2X3V6DGJhgFt4DhOLS0O%22
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
-
-
-#--------------------------------------------------------------------------------------------------------------------------------------------
 #not sure if they stream wcup
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rsF0qfTB/image-2026-06-17-06-11-49.png",Bein Sports 4 Max
-http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaE4OM3tuyzL533bO9nJYOIc
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/HTn8c6PC/w-BSj-G63-C.jpg", Bein Sports 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
-#inactive
+#Playback failed, match er somoy check kore dekha
 
+#EXTM3U
 
+#EXTINF:-1,Channel 1
+https://www.mdrstore.shop/s2_bn_max_1_fhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Channel 2
+https://stream.kurdtv.live/bein-max/index.m3u8
+
+#EXTINF:-1,Channel 3
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
+
+#EXTINF:-1,Channel 4
+https://live05.msdht.app/live/24561735.m3u8
 
 #EXTINF:-1, TRT 1 (TURKISH) 2K
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
@@ -416,13 +416,4 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/le
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz0LwsvR/images-q-tbn-ANd9-Gc-Suhba0t-Co-Ao5p-OAw-K1k2q-B1r0e-Q5-Vmw6ke-Bw-s.jpg", Mr Bean
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb573d1e786c618c84c83f64cef04582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9e75c45dd6da9e5014e907d13fa83439fd501e98585598344d375f642cb92f189d44483e4ab599975824e6912422ff9bab4f2a3529bd5806035907067135005a6eba4f740388950501cd6cb8bee35b14395c912886e61ef5bd857d264c32b8b19b7ed4b97a8b9f44b5576f1970c2f74f6a5e8a1d3011e912abbaee0d6763cbef3177348802dfb2a39379df88445d09a5bc6f873cbe4292e39c6905792d2e7d0b8fede1cee50a0adc391334641741742d70dd0fd43ef698c28e69e6962362b63a29552c883a32e136a5d898d5b945e5b8ed28587d0192888073f5ffb6bcd541566af653a2e054c390bf7ddef152db3aebbfb632c05cca00cec6632c8/162/1920x1080_6046040/index.m3u8
-
-#EXTINF:-1 , Ra-one
-https://pub-dc4c0f51049c44f3aba2b5e69eff890c.r2.dev/CineFreak.ME%20-%20Ra.One%20%282011%29%20Hindi%20Zee5%20WEB-DL%20720p.mkv
-#--------------------------------------------------------------------------------------------------------------------------------------------
-#Playback failed
-
-#--------------------------------------------------------------------------------------------------------------------------------------------
 
