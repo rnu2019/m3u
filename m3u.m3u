@@ -43,7 +43,13 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass1.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
@@ -69,11 +75,17 @@ https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max SD
 http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4aZqw&e=1781180635|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein 3Max SD
 http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+#EXTINF:-1 group-title="WCup" tvg-logo="", Bein4max
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/max4.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", (En) Bein 5Max FHD
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
