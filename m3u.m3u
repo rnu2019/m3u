@@ -7,7 +7,7 @@ http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
@@ -184,6 +184,9 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", Supersport HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+
+#EXTINF:-1,Channel 3
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TVRI_2026_World_Cup_%28without_trophy%29.svg" ,TVRI Sport
@@ -413,8 +416,7 @@ https://www.mdrstore.shop/s2_bn_max_1_fhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel 2
 https://stream.kurdtv.live/bein-max/index.m3u8
 
-#EXTINF:-1,Channel 3
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
+
 
 #EXTINF:-1,Channel 4
 https://live05.msdht.app/live/24561735.m3u8
