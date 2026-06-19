@@ -20,17 +20,19 @@ http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
 http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
-http://113.21.231.219:789/Tsports/index.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
+http://113.21.231.219:789/Tsports/index.m3u8
+
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy HD
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy HD
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy
 https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
@@ -208,6 +210,10 @@ https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png", RTM SPORTS HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
+
+
+#EXTINF:-1, Unknown FHD
+https://live05.msdht.app/live/24561735.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" ,RTM SPORT(K7)
@@ -410,22 +416,19 @@ https://sm-monirul.top/ott/live/bioscope.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 
+
+
+
+
+
+
+
+
 #EXTINF:-1,Channel 1
 https://www.mdrstore.shop/s2_bn_max_1_fhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Channel 2
 https://stream.kurdtv.live/bein-max/index.m3u8
-
-
-
-#EXTINF:-1,Channel 4
-https://live05.msdht.app/live/24561735.m3u8
-
-
-
-
-#EXTINF:-1, Zor Tv
-https://stream8.cinerama.uz/1016/playlist.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fVNkcnjf/image-2026-06-14-23-15-38.png", Zibo play
 https://fifaexclusive.myziboplay.xyz/Fifa/tracks-v1a1/mono.m3u8?token=fe6Uuugm3xgIm2
