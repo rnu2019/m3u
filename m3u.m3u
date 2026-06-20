@@ -393,6 +393,31 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
 
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV1 
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/ALWAN%20TV%201.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV1 
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641605&extension=m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV1 
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641618&extension=m3u8 
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV1 
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641624&extension=m3u8 
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV2
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/ALWAN%20TV%202.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV2 
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641619&extension=m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV2 
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641606&extension=m3u8 
+
+#EXTINF:-1, Bein 4K HDR
+http://varnishrcdn.com/live/hameedha2/XRewmb2XTY/724943.m3u8 
+
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
@@ -439,12 +464,15 @@ https://cdn-tt.pages.dev/ch5.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=17817432
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", ToffeeP5 FHD
 https://cdn-tt.pages.dev/ch5.m3u8
-
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #not sure if they stream wcup
 
-#EXTINF:-1, TRT 1 (TURKISH) 2K
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="", OnSport+1
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/onsp1.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="", OnSport+2
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/onsp2.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="", OnSport+3
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/onsp3.m3u8
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #Playback failed, match er somoy check kore dekha
