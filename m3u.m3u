@@ -853,6 +853,23 @@ https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/t1.m3u8
 
 #EXTINF:-1,MASS 4
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass4.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/53aSeDH.png", TOFFEE-🇧🇩-1ᶠᴴᴰ
+https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/53aSeDH.png", TOFFEE-🇧🇩-2ᶠᴴᴰ
+https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/53aSeDH.png", TOFFEE-🇧🇩-3ᶠᴴᴰ
+https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/53aSeDH.png", TOFFEE-🇧🇩-4ᶠᴴᴰ
+https://kazimmt.ami.bd/playlist/TF/TF-4.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/53aSeDH.png", TOFFEE-🇧🇩-5ᶠᴴᴰ
+https://kazimmt.ami.bd/playlist/TF/TF-5.m3u8
+
+
+#EXTINF:-1 tvg-name="Toffee" group-title="World_Cup",Toffee
+https://sm-monirul.top/toffee/stream.php
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/TSN3_HD.svg" group-title="World_Cup",TSN 3
+https://himelhimuishere.pages.dev/fwc2k26.m3u8
 #--------------------------------------------------------------------------------------------------------------------------------------------
 
 
