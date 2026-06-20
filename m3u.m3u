@@ -808,6 +808,51 @@ https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/poss6.m3u8
 
 #EXTINF:-1,RCC
 https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/rcc.m3u8
+
+#EXTINF:-1,bsmax2
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=196472&extension=m3u8
+
+#EXTINF:-1,ULTA V3 - 196473
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=196473&extension=m3u8
+
+#EXTINF:-1,TOD Bein
+http://gooon.tv:8080/play/link/ae28b7a3-e5ff-4ac3-b7b6-97da484e242a/eyJpdiI6IitGNGVRSFBaSzRhRitDWmRxTG1Vamc9PSIsInZhbHVlIjoiWm5oUzUzRkNCYWltM0p3WUhjdS8zZWlnSWpobmZhZXdLYkdEdlNCRXlFVUNZUTBmYzVRby96QmUxelpEMWc5SyIsIm1hYyI6IjEyYzhjNTVjMDg4YzEyMTIzNGYxZGY0Yzg5YzBhMThiNjg5YWU2NjIxNjZlNmI4YWQ0OGQ4MTRjY2Y3OWJiMjciLCJ0YWciOiIifQ==.ts
+
+#EXTINF:-1,TOD Bein2
+http://gooon.tv:8080/play/link/6aa38f85-dafa-426e-bbd3-20ca86d89ac1/eyJpdiI6Ino0ZnNJZUs3UERoUmFqclBVVDRTUFE9PSIsInZhbHVlIjoiMEpDWlRPaDlXbktiR01IUmVVTitKNW45V1kxWkxKQlVXTGtJWHRRZU1QSnFieXpOSXVKaFd1MXBJV2l4ZjhuUCIsIm1hYyI6IjhhYTljM2E4NTUyZGExZWMxNGYwNGRhNzA4ZjY5MGZiYjBkNWZjYmVhMjQwNjdjZGMyOWI0YmNhN2MyMTQ0ZDciLCJ0YWciOiIifQ==.ts
+
+#EXTINF:-1,BS2
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass3.m3u8
+
+#EXTINF:-1,MASS 2
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass2.m3u8
+
+#EXTINF:-1,MAS 2S1
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mas2s1.m3u8
+
+#EXTINF:-1,EX 5
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX5.m3u8
+
+#EXTINF:-1,EX 4
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX4.m3u8
+
+#EXTINF:-1,EX 3
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX3.m3u8
+
+#EXTINF:-1,EX 2
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX2.m3u8
+
+#EXTINF:-1,EX 1
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX1.m3u8
+
+#EXTINF:-1,URLTOD
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/urltod.m3u8
+
+#EXTINF:-1,T1
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/t1.m3u8
+
+#EXTINF:-1,MASS 4
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass4.m3u8
 #--------------------------------------------------------------------------------------------------------------------------------------------
 
 
