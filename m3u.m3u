@@ -301,8 +301,7 @@ http://opplex.to:80/live/Abdurrehman890/482910/444332.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
 https://ads-27727.icu/un.php?id=2|User-Agent=andriod
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/zee-cinema-color.png", Hi ZeeCinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -483,13 +482,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/
 #KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
 https://a162aivottevtad-a.akamaihd.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_38f331a6-f6dd-4396-9193-4c0d5b6678b4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?aws.sessionId=bac94a06-9cdd-4392-a494-8e68c98055ae&amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/1zK0LRLD/image-2026-06-18-12-37-45.png",TUDN FHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
-
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -505,26 +497,19 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/ALWAN%20TV%201.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV1 
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641605&extension=m3u8
-
+#http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641605&extension=m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV1 
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641618&extension=m3u8 
-
+#http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641618&extension=m3u8 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV1 
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641624&extension=m3u8 
+#http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641624&extension=m3u8 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV2
 https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/ALWAN%20TV%202.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV2 
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641619&extension=m3u8
-
+#http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641606&extension=m3u8 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV2 
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641606&extension=m3u8 
-
-#EXTINF:-1, Bein 4K HDR
-http://varnishrcdn.com/live/hameedha2/XRewmb2XTY/724943.m3u8 
-
+#http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641619&extension=m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTDSVK7r/image-2026-06-22-01-40-27.png",AlFajerTV1
