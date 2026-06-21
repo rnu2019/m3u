@@ -137,8 +137,16 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" ,RTB_ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" ,GO Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k44YT0HL/image-2026-06-21-00-41-10.png", IRIB 4K UHD 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k44YT0HL/image-2026-06-21-00-41-10.png", IRIB 4K UHD 
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
@@ -153,12 +161,11 @@ http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k44YT0HL/image-2026-06-21-00-41-10.png", IRIB 4K UHD 
-https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
-
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c42Wwmvx/image-2026-06-21-00-36-26.png", Match Tv 
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
@@ -169,6 +176,9 @@ http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
+https://kick.yagaverse.net/bein-sports-1.php?get_variant=aHR0cDovL3VsdGF2My5tZTo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTo0NDo5NTo4NyZzdHJlYW09MTk2NDczJmV4dGVuc2lvbj1tM3U4
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass1.m3u8
@@ -225,6 +235,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="", Bein HD
 https://cp11.adabmedia.com/hls2/sport.m3u8
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", TSN
+https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TSN1_HD.svg" group-title="WCup",TSN1 HD
 http://stalker.hakunamata.workers.dev/play/258/index.m3u8
@@ -244,9 +256,30 @@ http://stalker.hakunamata.workers.dev/play/262/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg" group-title="WCup",TSN
 https://himelhimuishere.pages.dev/fwc2k26.m3u8
 
+#EXTINF:-1 , TSN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 , TSN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
 
 #EXTINF:-1,CT SPORT HD
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CTV_logo_2018.svg" ,CTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
@@ -262,18 +295,18 @@ http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1648
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO  FHD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png",TELEMUNDO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8
+#https://edge2caster.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png",TELEMUNDO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz
-https://edge2caster.pro/hls/eJmauBDCIf.m3u8
-#https://edge2caster.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/Vvg3vcrb/image-2026-06-18-12-34-55.png",Tipik Direct
@@ -329,6 +362,9 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TVRI_2026_World_Cup_%28without_trophy%29.svg" ,TVRI Sport
 http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_%282019%29_ver2.svg" , TVRI Nasional
+http://103.148.44.38:8000/play/a03t/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" ,OKEY TV
@@ -417,9 +453,6 @@ http://84.17.50.102/fox/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
-https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
 http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15108
