@@ -1,5 +1,72 @@
 #EXTM3U
 
+#--------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP1 FHD
+https://cdn-tt.pages.dev/ch1.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", Toffee1 FHD
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8?hdntl=Expires=1781895849~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ--v-mC3OIajoRHB4MQVIQvaQQQf7PP_snAjMPl_hA5GtHraHLdf7Ce9DmVoSbHpE0UkYXYNKtPWlmG1Xnxj40E
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP1 FHD
+#https://cdn-tt.pages.dev/ch1.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781708413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8AXJXmgpfdZcGfetuV270IwgzpP_x3qubSjdpz6eAwkWpymuMhhJH5fLuJqkukWEgk2X3V6DGJhgFt4DhOLS0O%22
+
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-1/0/master_2000.m3u8
+
+#https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
+
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP2 FHD
+https://cdn-tt.pages.dev/ch2.m3u8
+
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_2000.m3u8
+
+#https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
+
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP3 FHD
+https://cdn-tt.pages.dev/ch3.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", Toffee3 FHD
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8%7Ccookie=Edge-Cache-Cookie=Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", Toffee3 FHD
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782002114~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_ez4M5uR5ZzEwlADKNN5btFRatHbkNjl9MoZLjVfgTA_SLOIDxSeRNEOfeJC8Tkhm7zhOWmq3Xy-WdJUuIvcoA
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP3 FHD
+#https://cdn-tt.pages.dev/ch3.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF%22
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP3 FHD
+#http://sweetcandy-bvs.pages.dev/channel3.m3u8
+
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8
+
+#https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
+
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP4 FHD
+https://cdn-tt.pages.dev/ch4.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", Toffee4 FHD
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/1/master_1800.m3u8?hdntl=Expires=1781860204~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9Sj9zvSufjg0JASf_vDycyqdS8TPBOu-JKexBNXNW9DscK2nxR0lg5t16ryjLACgEgXZ7OiLvl6k-jUTI_KmcD
+
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
+
+#https://kazimmt.ami.bd/playlist/TF/TF-4.m3u8
+
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP5 FHD
+https://cdn-tt.pages.dev/ch5.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP5 FHD
+#https://cdn-tt.pages.dev/ch5.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF%22
+
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
+
+#https://kazimmt.ami.bd/playlist/TF/TF-5.m3u8
+
+#EXTINF:-1 tvg-name="Toffee" group-title="World_Cup",Toffee
+#https://sm-monirul.top/toffee/stream.php
+#--------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
@@ -143,6 +210,9 @@ https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max SD
 http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4aZqw&e=1781180635|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max
+http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=196472&extension=m3u8
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein 3Max SD
 http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
@@ -170,6 +240,9 @@ http://stalker.hakunamata.workers.dev/play/261/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg" group-title="WCup",TSN5 HD
 http://stalker.hakunamata.workers.dev/play/262/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg" group-title="WCup",TSN
+https://himelhimuishere.pages.dev/fwc2k26.m3u8
 
 
 #EXTINF:-1,CT SPORT HD
@@ -454,234 +527,30 @@ http://varnishrcdn.com/live/hameedha2/XRewmb2XTY/724943.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTDSVK7r/image-2026-06-22-01-40-27.png",AlFajerTV1
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj1.m3u8
 
-#--------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTDSVK7r/image-2026-06-22-01-40-27.png",AlFajerTV2
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj2.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP1 FHD
-https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTDSVK7r/image-2026-06-22-01-40-27.png",AlFajerTV3
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj3.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", Toffee1 FHD
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8?hdntl=Expires=1781895849~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ--v-mC3OIajoRHB4MQVIQvaQQQf7PP_snAjMPl_hA5GtHraHLdf7Ce9DmVoSbHpE0UkYXYNKtPWlmG1Xnxj40E
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTDSVK7r/image-2026-06-22-01-40-27.png",AlFajerTV4
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj4.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP1 FHD
-#https://cdn-tt.pages.dev/ch1.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781708413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8AXJXmgpfdZcGfetuV270IwgzpP_x3qubSjdpz6eAwkWpymuMhhJH5fLuJqkukWEgk2X3V6DGJhgFt4DhOLS0O%22
-
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-1/0/master_2000.m3u8
-
-#https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP2 FHD
-https://cdn-tt.pages.dev/ch2.m3u8
-
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_2000.m3u8
-
-#https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP3 FHD
-https://cdn-tt.pages.dev/ch3.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", Toffee3 FHD
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8%7Ccookie=Edge-Cache-Cookie=Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", Toffee3 FHD
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782002114~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_ez4M5uR5ZzEwlADKNN5btFRatHbkNjl9MoZLjVfgTA_SLOIDxSeRNEOfeJC8Tkhm7zhOWmq3Xy-WdJUuIvcoA
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP3 FHD
-#https://cdn-tt.pages.dev/ch3.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF%22
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP3 FHD
-#http://sweetcandy-bvs.pages.dev/channel3.m3u8
-
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8
-
-#https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP4 FHD
-https://cdn-tt.pages.dev/ch4.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", Toffee4 FHD
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/1/master_1800.m3u8?hdntl=Expires=1781860204~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9Sj9zvSufjg0JASf_vDycyqdS8TPBOu-JKexBNXNW9DscK2nxR0lg5t16ryjLACgEgXZ7OiLvl6k-jUTI_KmcD
-
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
-
-#https://kazimmt.ami.bd/playlist/TF/TF-4.m3u8
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP5 FHD
-https://cdn-tt.pages.dev/ch5.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP5 FHD
-#https://cdn-tt.pages.dev/ch5.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF%22
-
-#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8
-
-#https://kazimmt.ami.bd/playlist/TF/TF-5.m3u8
-
-
-#EXTINF:-1 tvg-name="Toffee" group-title="World_Cup",Toffee
-#https://sm-monirul.top/toffee/stream.php
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTDSVK7r/image-2026-06-22-01-40-27.png",AlFajerTV5
+https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj5.m3u8
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #not sure if they stream wcup
-
-#EXTINF:-1 group-title="WCup" tvg-logo="", OnSport+1
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/onsp1.m3u8
-#EXTINF:-1 group-title="WCup" tvg-logo="", OnSport+2
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/onsp2.m3u8
-#EXTINF:-1 group-title="WCup" tvg-logo="", OnSport+3
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/onsp3.m3u8
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #Playback failed, match er somoy check kore dekha
 
-#EXTINF:-1 group-title="WCup" tvg-logo="",  C1
-http://techtalks.uk:80/live/FbCjAetheb/jovial4construction/333368.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title="WCup" tvg-logo="", C2 
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",beIN SPORTS 1 UHD
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",beIN SPORTS MAX 1 4K
-
-
-
-
-
-
-
-
-#EXTINF:-1,BBMS 1
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/1bbms.m3u8
-
-#EXTINF:-1,BBMS 2
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/2bbms.m3u8
-
-#EXTINF:-1,BBMS 3
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/3bbms.m3u8
-
-#EXTINF:-1,BBMS 4
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/4bbms.m3u8
-
-#EXTINF:-1,BBMS 5
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/5bbms.m3u8
-
-#EXTINF:-1,BBMS 6
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/6bbms.m3u8
-
-
-#EXTINF:-1,81
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/81.m3u8
-
-#EXTINF:-1,82
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/82.m3u8
-
-#EXTINF:-1,83
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/83.m3u8
-
-#EXTINF:-1,BB1F
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/bb1f.m3u8
-
-#EXTINF:-1,BB2F
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/bb2f.m3u8
-
-#EXTINF:-1,FJ 1
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj1.m3u8
-
-#EXTINF:-1,FJ 2
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj2.m3u8
-
-#EXTINF:-1,FJ 3
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj3.m3u8
-
-#EXTINF:-1,FJ 4
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj4.m3u8
-
-#EXTINF:-1,FJ 5
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj5.m3u8
-
-#EXTINF:-1,OMIERS 1
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/omiers1.m3u8
-
-#EXTINF:-1,POSS 1
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/poss1.m3u8
-
-#EXTINF:-1,POSS 2
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/poss2.m3u8
-
-#EXTINF:-1,POSS 3
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/poss3.m3u8
-
-#EXTINF:-1,POSS 4
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/poss4.m3u8
-
-#EXTINF:-1,POSS 5
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/poss5.m3u8
-
-#EXTINF:-1,POSS 6
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/poss6.m3u8
-
-#EXTINF:-1,RCC
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/rcc.m3u8
-
-#EXTINF:-1,bsmax2
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=196472&extension=m3u8
-
-#EXTINF:-1,ULTA V3 - 196473
-http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=196473&extension=m3u8
-
-#EXTINF:-1,TOD Bein
-http://gooon.tv:8080/play/link/ae28b7a3-e5ff-4ac3-b7b6-97da484e242a/eyJpdiI6IitGNGVRSFBaSzRhRitDWmRxTG1Vamc9PSIsInZhbHVlIjoiWm5oUzUzRkNCYWltM0p3WUhjdS8zZWlnSWpobmZhZXdLYkdEdlNCRXlFVUNZUTBmYzVRby96QmUxelpEMWc5SyIsIm1hYyI6IjEyYzhjNTVjMDg4YzEyMTIzNGYxZGY0Yzg5YzBhMThiNjg5YWU2NjIxNjZlNmI4YWQ0OGQ4MTRjY2Y3OWJiMjciLCJ0YWciOiIifQ==.ts
-
-#EXTINF:-1,TOD Bein2
-http://gooon.tv:8080/play/link/6aa38f85-dafa-426e-bbd3-20ca86d89ac1/eyJpdiI6Ino0ZnNJZUs3UERoUmFqclBVVDRTUFE9PSIsInZhbHVlIjoiMEpDWlRPaDlXbktiR01IUmVVTitKNW45V1kxWkxKQlVXTGtJWHRRZU1QSnFieXpOSXVKaFd1MXBJV2l4ZjhuUCIsIm1hYyI6IjhhYTljM2E4NTUyZGExZWMxNGYwNGRhNzA4ZjY5MGZiYjBkNWZjYmVhMjQwNjdjZGMyOWI0YmNhN2MyMTQ0ZDciLCJ0YWciOiIifQ==.ts
-
-#EXTINF:-1,BS2
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass3.m3u8
-
-#EXTINF:-1,MASS 2
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass2.m3u8
-
-#EXTINF:-1,MAS 2S1
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mas2s1.m3u8
-
-#EXTINF:-1,EX 5
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX5.m3u8
-
-#EXTINF:-1,EX 4
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX4.m3u8
-
-#EXTINF:-1,EX 3
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX3.m3u8
-
-#EXTINF:-1,EX 2
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX2.m3u8
-
-#EXTINF:-1,EX 1
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/EX1.m3u8
-
-#EXTINF:-1,URLTOD
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/urltod.m3u8
-
-#EXTINF:-1,T1
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/t1.m3u8
-
-#EXTINF:-1,MASS 4
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass4.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/TSN3_HD.svg" group-title="World_Cup",TSN 3
-https://himelhimuishere.pages.dev/fwc2k26.m3u8
 #--------------------------------------------------------------------------------------------------------------------------------------------
-
-#-----------------------------------------------------------------------
 #onu laganor por bufferless na cholle baad
 
 #EXTINF:-1,DSports (Opción 1)
