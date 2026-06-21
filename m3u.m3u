@@ -235,35 +235,35 @@ http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="", Bein HD
 https://cp11.adabmedia.com/hls2/sport.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", TSN
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup", TSN
 https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TSN1_HD.svg" group-title="WCup",TSN1 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN1 HD
 http://stalker.hakunamata.workers.dev/play/258/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/TSN2_HD_New.svg" group-title="WCup",TSN2 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN2 HD
 http://stalker.hakunamata.workers.dev/play/259/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/TSN3_HD.svg" group-title="WCup",TSN3 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN3 HD
 http://stalker.hakunamata.workers.dev/play/260/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/TSN4_HD.svg" group-title="WCup",TSN4 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN4 HD
 http://stalker.hakunamata.workers.dev/play/261/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg" group-title="WCup",TSN5 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN5 HD
 http://stalker.hakunamata.workers.dev/play/262/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg" group-title="WCup",TSN
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN
 https://himelhimuishere.pages.dev/fwc2k26.m3u8
 
-#EXTINF:-1 , TSN
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup", TSN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 , TSN
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup", TSN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -271,10 +271,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 
-#EXTINF:-1,CT SPORT HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/dQCLrjns/image-2026-06-22-02-38-59.png" group-title="WCup",CT SPORT HD
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CTV_logo_2018.svg" ,CTV
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/JzpnM67g/image-2026-06-22-02-39-40.png" group-title="WCup", CTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -356,14 +356,14 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", Supersport HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
-#EXTINF:-1,Channel 3
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", Supersport 
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TVRI_2026_World_Cup_%28without_trophy%29.svg" ,TVRI Sport
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/90B210rB/image-2026-06-22-02-41-06.png" ,TVRI Sport
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_%282019%29_ver2.svg" , TVRI Nasional
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/90B210rB/image-2026-06-22-02-41-06.png" , TVRI Nasional
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
 
