@@ -130,6 +130,7 @@ http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWl
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max
 https://no-red.pages.dev/liveop2.m3u8
 
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
 https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
 
@@ -181,6 +182,9 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1648
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO  FHD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -301,6 +305,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 #KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports HD
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1564
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/zWbgHdVy/image-2026-06-15-10-36-57.png", DSports+ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -338,6 +345,12 @@ http://84.17.50.102/fox/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
+https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15108
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
@@ -529,255 +542,17 @@ http://techtalks.uk:80/live/FbCjAetheb/jovial4construction/333368.ts?RKDYIPTV&to
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope
-https://sm-monirul.top/ott/live/bioscope.m3u8
-#https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 1 4K" tvg-name="beIN SPORTS MAX 1 4K" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",beIN SPORTS MAX 1 4K
-http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
-
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FUSSBALL TV - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FOX SPORTS HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TELEMUNDO - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", D SPORTS - AQ [ES]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", CAZE TV - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", SPORTV BR - AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TELEMUNDO SPANISH
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", ZDF GERMAN HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813
-https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", BEIN SPORTS MAX
-https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", SPORZA SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TAPMAD - HD
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FOX SPORTS HD
-https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TSN SPORTS HD
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", beIN MAX FHD
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/bydEQp0Upl1qODZU4qpqADmNoX9xsqVzVnZY_EKfNBpqEuiSK9EW5vC336uky-9KUd-3lMgBw5IEd4F2WP1iOQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FOX SPORTS HD
-https://chatgpt.hereisman.net/playlist/51981/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", SD SERVER
-http://193.47.62.41/hls/PPPPQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TSN SPORTS HD
-https://chatgpt.hereisman.net/playlist/51980/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 group-title="FIFA WC 2026 LIVE" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FAST SERVER 2
-https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoEMCzZ6Ytv.m3u8?txSecret=a070f2669cf64273a60442ffd9b45138&txTime=6A2DF249
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026 LIVE", Super Sports
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/741566/lmND4qC9ustQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026 LIVE", Fussball TV 1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026 LIVE", SUPER SPORTS FIFA
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/741566/lmND4qC9ustQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026 LIVE", BEIN SPORTS MAX 1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/744517/lmND4qC9ustQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026 LIVE", BEIN SPORTS MAX 2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/744518/lmND4qC9ustQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026 LIVE", SS World Cup Central
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/745149/lmND4qC9ustQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026 LIVE", SS World Cup Pass
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/745195/lmND4qC9ustQ/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026 LIVE", Unite8 Sports 2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xtream.lazyspace.online/uplink/play/745202/lmND4qC9ustQ/live.m3u8
-
-
-# ===== beIN SPORTS SD =====
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 1 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/56
-
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 2 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/57
-
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 3 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/59
-
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 4 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/60
-
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 5 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/93
-
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 6 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/92
-
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 7 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/91
-
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 8 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/61
-
-#EXTINF:-1 group-title="beIN SPORTS",beIN SPORTS 9 SD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/4035
-
-
-# ===== Alwan Sport =====
-#EXTINF:-1 group-title="Alwan Sport",Alwan Sport 1 FHD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/4399
-
-#EXTINF:-1 group-title="Alwan Sport",Alwan Sport 2 FHD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/4400
-
-#EXTINF:-1 group-title="Alwan Sport",Alwan Sport 3 FHD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/4401
-
-#EXTINF:-1 group-title="Alwan Sport",Alwan Sport 4 FHD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/4402
-
-#EXTINF:-1 group-title="Alwan Sport",Alwan Sport 5 FHD
-http://ugeen.live:8080/Ugeen_AqBvJJ/Gn9k7a/4418
-
-#EXTINF:-1,win sports+
-http://m3u.tvcluboficial.com/m/m/1042.m3u8
-
-
-#EXTINF:-1,DSports (Opción 1)
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1,DSports (Opción 2)
-http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:-1,DSports (Opción 3)
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-#EXTINF:-1,DSports (Opción 4)
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1,DSports (Opción 5)
-http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1,DSports (Opción 6)
-http://190.223.48.46:8000/play/a028/index.m3u8
-#EXTINF:-1,DSports (Opción 7)
-http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1,DSports (Opción 8)
-http://190.117.20.37:8000/play/a08d/index.m3u
-#EXTINF:-1,DSports (Opción 9)
-http://177.53.152.117:8000/play/a07d/index.m3u8
-#EXTINF:-1,DSports (Opción 10)
-http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:-1,DSports (Opción 11)
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-#EXTINF:-1,DSports (Opción 12)
-http://217.26.190.76:8888/play/a0co/index.m3u8
-
-
-#EXTINF:-1,TUDN
-http://24.152.53.3:8090/play/a012/index.m3u8
-
-
-#EXTINF:-1,TYC SPORTS FUENTE 2
-http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157580
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/c/ce/%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg/1280px-%D0%9C%D0%B0%D1%82%D1%87_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80.svg.png", MATCH! PREMIERE 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
-https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",beIN SPORTS 1 UHD
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",beIN SPORTS MAX 1 4K
-http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg" group-title="Deportes",TUDN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/340
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://www.google.com/imgres?q=canal%20fox&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc0%2FFox_Broadcasting_Company_logo_%25282019%2529.svg&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FFox_Broadcasting_Company&docid=FNdwislJXSLxNM&tbnid=VtMNobKH3yo33M&vet=12ahUKEwiLheOysf-UAxU_rokEHVnPIGcQnPAOegQIFRAB..i&w=1000&h=422&hcb=2&ved=2ahUKEwiLheOysf-UAxU_rokEHVnPIGcQnPAOegQIFRAB" group-title="Deportes",Fox
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15108
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HN" tvg-logo="https://i.imgur.com/T6XcvYT.png" group-title="Deportes",Tigo Sports HN telemundo
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1648
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DirectTV Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="Deportes",DirectTV Sports d sports
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1564
-
-
-#EXTINF:-1,TUDN
-http://45.171.64.30:2000/play/a08j/index.m3u8
-#EXTINF:-1,TyC Sports
-http://38.44.109.41:8003/play/a02l/index.m3u8
-
-
-#EXTINF:-1,DSPORTS 1 🇦🇷
-http://190.117.20.37:8000/play/a08d/index.m3u8
-
-
-#EXTINF:-1,DSPORTS +
-http://217.26.190.76:8888/play/a0jb/index.m3u8
-#EXTINF:-1,DSports
-http://38.226.210.46:8000/play/A008/index.m3u8
-
-
-#EXTINF:-1,ALWAN TV 3
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/ALWAN%20TV%203.m3u8
-
-#EXTINF:-1,ALWAN TV 4
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/ALWAN%20TV%204.m3u8
-
-#EXTINF:-1,ALWAN TV 5
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/ALWAN%20TV%205.m3u8
-
-#EXTINF:-1,ALWAN TV 6
-https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/ALWAN%20TV%206.m3u8
 
 
 #EXTINF:-1,BBMS 1
@@ -906,4 +681,32 @@ https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass4.m3u8
 https://himelhimuishere.pages.dev/fwc2k26.m3u8
 #--------------------------------------------------------------------------------------------------------------------------------------------
 
+#-----------------------------------------------------------------------
+#onu laganor por bufferless na cholle baad
+
+#EXTINF:-1,DSports (Opción 1)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1,DSports (Opción 2)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1,DSports (Opción 3)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1,DSports (Opción 4)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1,DSports (Opción 5)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1,DSports (Opción 6)
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1,DSports (Opción 7)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1,DSports (Opción 8)
+http://190.117.20.37:8000/play/a08d/index.m3u
+#EXTINF:-1,DSports (Opción 9)
+http://177.53.152.117:8000/play/a07d/index.m3u8
+#EXTINF:-1,DSports (Opción 10)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1,DSports (Opción 11)
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+#EXTINF:-1,DSports (Opción 12)
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#-----------------------------------------------------------------------
 
