@@ -437,25 +437,15 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641606&extension
 http://varnishrcdn.com/live/hameedha2/XRewmb2XTY/724943.m3u8 
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", Toffee1 FHD
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8?hdntl=Expires=1781895849~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ--v-mC3OIajoRHB4MQVIQvaQQQf7PP_snAjMPl_hA5GtHraHLdf7Ce9DmVoSbHpE0UkYXYNKtPWlmG1Xnxj40E
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_2000.m3u8?hdntl=Expires=1781895849~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ--v-mC3OIajoRHB4MQVIQvaQQQf7PP_snAjMPl_hA5GtHraHLdf7Ce9DmVoSbHpE0UkYXYNKtPWlmG1Xnxj40E
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", ToffeeP1 FHD
-https://cdn-tt.pages.dev/ch1.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781708413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8AXJXmgpfdZcGfetuV270IwgzpP_x3qubSjdpz6eAwkWpymuMhhJH5fLuJqkukWEgk2X3V6DGJhgFt4DhOLS0O%22
+#https://cdn-tt.pages.dev/ch1.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781708413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8AXJXmgpfdZcGfetuV270IwgzpP_x3qubSjdpz6eAwkWpymuMhhJH5fLuJqkukWEgk2X3V6DGJhgFt4DhOLS0O%22
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", ToffeeP1 FHD
 https://cdn-tt.pages.dev/ch1.m3u8
@@ -464,23 +454,23 @@ https://cdn-tt.pages.dev/ch1.m3u8
 https://cdn-tt.pages.dev/ch2.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", Toffee3 FHD
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8%7Ccookie=Edge-Cache-Cookie=Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8%7Ccookie=Edge-Cache-Cookie=Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", Toffee3 FHD
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782002114~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_ez4M5uR5ZzEwlADKNN5btFRatHbkNjl9MoZLjVfgTA_SLOIDxSeRNEOfeJC8Tkhm7zhOWmq3Xy-WdJUuIvcoA
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782002114~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_ez4M5uR5ZzEwlADKNN5btFRatHbkNjl9MoZLjVfgTA_SLOIDxSeRNEOfeJC8Tkhm7zhOWmq3Xy-WdJUuIvcoA
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", ToffeeP3 FHD
-https://cdn-tt.pages.dev/ch3.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF%22
+#https://cdn-tt.pages.dev/ch3.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF%22
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", ToffeeP3 FHD
 https://cdn-tt.pages.dev/ch3.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", ToffeeP3 FHD
-http://sweetcandy-bvs.pages.dev/channel3.m3u8
+#http://sweetcandy-bvs.pages.dev/channel3.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", Toffee4 FHD
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/1/master_1800.m3u8?hdntl=Expires=1781860204~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9Sj9zvSufjg0JASf_vDycyqdS8TPBOu-JKexBNXNW9DscK2nxR0lg5t16ryjLACgEgXZ7OiLvl6k-jUTI_KmcD
+#https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/1/master_1800.m3u8?hdntl=Expires=1781860204~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9Sj9zvSufjg0JASf_vDycyqdS8TPBOu-JKexBNXNW9DscK2nxR0lg5t16ryjLACgEgXZ7OiLvl6k-jUTI_KmcD
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", ToffeeP4 FHD
 https://cdn-tt.pages.dev/ch4.m3u8
@@ -489,7 +479,7 @@ https://cdn-tt.pages.dev/ch4.m3u8
 https://cdn-tt.pages.dev/ch5.m3u8%7Ccookie=Edge-Cache-Cookie=%22Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF%22
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/bJH4mFc7/image-2026-06-17-20-25-19.png", ToffeeP5 FHD
-https://cdn-tt.pages.dev/ch5.m3u8
+#https://cdn-tt.pages.dev/ch5.m3u8
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #not sure if they stream wcup
 
@@ -1966,6 +1956,19 @@ https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
 #KODIPROP:inputstream.adaptive.license_key=12ef9ad824df31b59ccf642a6de56a98:85dfbeca61d2000d18dc01a7b5a38800
 https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
 
+
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/7NQDrHrW/image-2026-06-15-00-44-31.png", ZeeBangla SD
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 
 
 
