@@ -204,10 +204,10 @@ https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 Max HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1MaxHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744517.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 Max FHD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1MaxFHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744523.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
@@ -225,7 +225,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max SD
 http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWlsw&e=1781176238|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 Max 4K
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744529.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max
@@ -243,61 +243,61 @@ http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 2 Max HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744518.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 2 Max FHD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744524.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max SD
 http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4aZqw&e=1781180635|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 2 Max 4K
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744530.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max
 http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=196472&extension=m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 3 Max HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein 3Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744519.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 3 Max FHD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein 3Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744525.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein 3Max SD
 http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 3 Max 4K
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein 3Max 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744531.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 4 Max HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744520.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 4 Max FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744526.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="", Bein4max
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/max4.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 4 Max  4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744532.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", (En) Bein 5Max FHD
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 5 Max HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744521.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 5 Max FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744527.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 5 Max 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744533.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 6 Max HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744522.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 6 Max FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744528.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="", Bein HD
@@ -423,9 +423,6 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", Supersport HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", Supersport 
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/90B210rB/image-2026-06-22-02-41-06.png" ,TVRI Sport
