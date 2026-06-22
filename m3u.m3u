@@ -116,6 +116,10 @@ https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope
+http://sm-monirul.top/ott/bioscope/index.m3u8
+
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k5MSY0F7/image-2026-06-20-03-17-32.png" , Iscreen 
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -138,6 +142,17 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" ,GO Live
 #https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k44YT0HL/image-2026-06-21-00-41-10.png", IRIB 4K UHD 
@@ -515,15 +530,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/
 #KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
 https://a162aivottevtad-a.akamaihd.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_38f331a6-f6dd-4396-9193-4c0d5b6678b4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?aws.sessionId=bac94a06-9cdd-4392-a494-8e68c98055ae&amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/zXrzcpJx/image-2026-06-21-01-01-16.png",  Alwan TV1 
@@ -565,7 +572,8 @@ https://raw.githubusercontent.com/ON2026/ON/refs/heads/main/fj5.m3u8
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #Playback failed, match er somoy check kore dekha
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope
+
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
