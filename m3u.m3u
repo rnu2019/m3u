@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 , Unknown but FHD
+https://cdn.fifalive.click/play.m3u8
+
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP1 FHD
 https://cdn-tt.pages.dev/ch1.m3u8
