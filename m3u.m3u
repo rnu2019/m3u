@@ -17,6 +17,8 @@ https://cdn-tt.pages.dev/ch1.m3u8
 
 #https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 
+#http://sm-monirul.top/tof/live/gervsivo/index.m3u8
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP2 FHD
 https://cdn-tt.pages.dev/ch2.m3u8
@@ -24,6 +26,8 @@ https://cdn-tt.pages.dev/ch2.m3u8
 #https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_2000.m3u8
 
 #https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
+
+#http://sm-monirul.top/tof/live/ecuvscur/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP3 FHD
@@ -45,6 +49,8 @@ https://cdn-tt.pages.dev/ch3.m3u8
 
 #https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
 
+#http://sm-monirul.top/tof/live/tunvsjap/index.m3u8
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP4 FHD
 https://cdn-tt.pages.dev/ch4.m3u8
@@ -55,6 +61,8 @@ https://cdn-tt.pages.dev/ch4.m3u8
 #https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
 
 #https://kazimmt.ami.bd/playlist/TF/TF-4.m3u8
+
+#https://sm-monirul.top/tof/live/toffee4/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP5 FHD
@@ -67,6 +75,8 @@ https://cdn-tt.pages.dev/ch5.m3u8
 
 #https://kazimmt.ami.bd/playlist/TF/TF-5.m3u8
 
+#https://sm-monirul.top/tof/live/toffee5/index.m3u8
+
 #EXTINF:-1 tvg-name="Toffee" group-title="World_Cup",Toffee
 #https://sm-monirul.top/toffee/stream.php
 #--------------------------------------------------------------------------------------------------------------------------------------------
@@ -77,6 +87,11 @@ http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
+https://mflixott.com/tv/dd/live.php?id=270
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports HD
 http://starhub.pro/live/Anthony2/Anthony123/113069.ts
@@ -113,6 +128,9 @@ http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy HD
+http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy HD
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy HD
@@ -127,6 +145,10 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/t
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope
 http://sm-monirul.top/ott/bioscope/index.m3u8
+
+#https://bioscope.sm-monirulislam-exp.workers.dev/index.m3u8
+
+#https://sm-monirul.top/ultra_restream/bioscope/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k5MSY0F7/image-2026-06-20-03-17-32.png" , Iscreen 
@@ -147,6 +169,7 @@ https://picocloud.thebosstv.com/main2/robi_fifa_main_abr/playlist.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/Df95wj9j/image-2026-06-14-23-41-51.png", GoLive FHD
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" ,RTB_ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" ,GO Live
@@ -409,6 +432,9 @@ https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.ism
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
+http://103.179.25.147:8181/FiFaaaaaah/index.m3u8﻿ 
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
@@ -527,6 +553,9 @@ http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
+https://test.movielinkbd.com/storage/relay/test/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
 http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
@@ -562,6 +591,13 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png",Caze FHD
 #KODIPROP:inputstream=inputstream.adaptive
