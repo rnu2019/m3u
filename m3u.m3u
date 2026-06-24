@@ -170,6 +170,9 @@ http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
 http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c42Wwmvx/image-2026-06-21-00-36-26.png", Match Tv 
@@ -183,67 +186,22 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
-http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
 http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
 https://kick.yagaverse.net/bein-sports-1.php?get_variant=aHR0cDovL3VsdGF2My5tZTo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTo0NDo5NTo4NyZzdHJlYW09MTk2NDczJmV4dGVuc2lvbj1tM3U4
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass1.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1MaxHD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744517.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1MaxFHD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744523.ts
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
-http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
-https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max SD
 http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWlsw&e=1781176238|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max4K
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744529.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max
-https://no-red.pages.dev/liveop2.m3u8
 
 
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
-https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max HD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744518.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744524.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max SD
 http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4aZqw&e=1781180635|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -266,41 +224,28 @@ http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bO
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein 3Max 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744531.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max HD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744520.ts
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max FHD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744526.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="", Bein4max
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/max4.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max 4K
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744532.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", (En) Bein 5Max FHD
-http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max HD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744521.ts
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744527.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744533.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max HD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744522.ts
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max FHD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744528.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="", Bein HD
-https://cp11.adabmedia.com/hls2/sport.m3u8
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup", TSN
 https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN1 HD
 http://stalker.hakunamata.workers.dev/play/258/index.m3u8
@@ -317,22 +262,9 @@ http://stalker.hakunamata.workers.dev/play/261/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN5 HD
 http://stalker.hakunamata.workers.dev/play/262/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN
-https://himelhimuishere.pages.dev/fwc2k26.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup", TSN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup", TSN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/dQCLrjns/image-2026-06-22-02-38-59.png" group-title="WCup",CT SPORT HD
@@ -346,12 +278,7 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
 http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1648
@@ -365,15 +292,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://edge2caster.pro/hls/eJmauBDCIf.m3u8
 #https://edge2caster.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/Vvg3vcrb/image-2026-06-18-12-34-55.png",Tipik Direct
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/Vvg3vcrb/image-2026-06-18-12-34-55.png",Tipik HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -389,23 +311,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.m
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
-http://103.179.25.147:8181/FiFaaaaaah/index.m3u8﻿ 
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
-http://opplex.to:80/live/Abdurrehman890/482910/444332.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
-https://ads-27727.icu/un.php?id=2|User-Agent=andriod
-
-
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -416,8 +321,7 @@ https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=178152449
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", En Unite8 2 FHD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", En Unite8 2 FHD
-http://opplex.to:80/live/Abdurrehman890/482910/444333.m3u8
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/nsW1DJXh/image-2026-06-14-23-07-31.png", Dazn FHD
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
@@ -426,14 +330,13 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", Supersport HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", supersport Central B
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png",Supersport HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", supersport Pass
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png",Supersport HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", supersport Extra
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745211.ts
+
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/90B210rB/image-2026-06-22-02-41-06.png" ,TVRI Sport
@@ -443,25 +346,6 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" ,OKEY TV
-http://iptv.kilas7.com:80/kaukia/asdfrewq/32
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/15c0vcmz/image-2026-06-22-21-42-16.png", CCTV
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1
-https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png", RTM SPORTS HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
-
-
-#EXTINF:-1, Unknown FHD
-https://live05.msdht.app/live/24561735.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" ,RTM SPORT(K7)
@@ -478,46 +362,20 @@ http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports HD
 http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1564
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/zWbgHdVy/image-2026-06-15-10-36-57.png", DSports+ FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
-http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv1 HD
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv1 FHD
-http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv1 FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
-https://test.movielinkbd.com/storage/relay/test/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
-http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", Fox HD
@@ -525,20 +383,12 @@ http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", Fox HD
 http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
 http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15108
@@ -550,29 +400,14 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png",Caze FHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
-https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/9f3pH74D/image-2026-06-18-11-37-32.png", TRT1 HD
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/9f3pH74D/image-2026-06-18-11-37-32.png", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/LsyRCL6Q/image-2026-06-18-12-25-12.png", Arena1 HD
-http://178.253.194.79:10001 
+http://178.253.194.79:10001
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/nNwx9T1c/image.png",WorldcupTv FHD
@@ -681,6 +516,139 @@ http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
 http://starhub.pro/live/Anthony2/Anthony123/61674.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
 https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mass1.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1MaxHD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744517.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1MaxFHD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744523.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
+https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
+http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max4K
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744529.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max
+https://no-red.pages.dev/liveop2.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
+http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
+https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max HD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744518.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744524.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max HD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744520.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max FHD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744526.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="", Bein4max
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/max4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max 4K
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744532.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", (En) Bein 5Max FHD
+http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max HD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744521.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max HD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744522.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max FHD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744528.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="", Bein HD
+https://cp11.adabmedia.com/hls2/sport.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN
+https://himelhimuishere.pages.dev/fwc2k26.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
+http://103.179.25.147:8181/FiFaaaaaah/index.m3u8﻿ 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
+http://opplex.to:80/live/Abdurrehman890/482910/444332.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/fzVyYBBJ/image-2026-06-16-01-37-47.png", Hi Unite8 1 FHD
+https://ads-27727.icu/un.php?id=2|User-Agent=andriod
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", En Unite8 2 FHD
+http://opplex.to:80/live/Abdurrehman890/482910/444333.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", supersport Extra
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745211.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" ,OKEY TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/32
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/15c0vcmz/image-2026-06-22-21-42-16.png", CCTV
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",ELTA SPORT 1
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+#EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png", RTM SPORTS HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
+#EXTINF:-1, Unknown FHD
+https://live05.msdht.app/live/24561735.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/jZQwqYHJ/image-2026-06-14-23-01-29.png", D Sports HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/zWbgHdVy/image-2026-06-15-10-36-57.png", DSports+ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv1 FHD
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
+https://test.movielinkbd.com/storage/relay/test/index.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
+http://starhub.pro/live/farhat-3379/67897-913379/742611.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/MyF5BVFt/image-2026-06-14-23-04-33.png", FussballTv2 FHD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png",Caze FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
+https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 
