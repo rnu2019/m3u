@@ -135,6 +135,9 @@ http://198.195.239.50:8095/tsports/index.m3u8
 http://114.130.57.233:8080/T-sports-64/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
+https://trs1.aynaott.com/tsports/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
@@ -253,7 +256,8 @@ http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
 http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWlsw&e=1781176238|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 
-
+#EXTINF:-1, Ice Sports
+http://ubuntu.moonplex.net:8080/TSports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max FHD
 http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
