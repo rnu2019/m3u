@@ -155,9 +155,6 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 #KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
-
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k44YT0HL/image-2026-06-21-00-41-10.png", IRIB 4K UHD 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -168,19 +165,11 @@ https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
-http://starhub.pro/live/Anthony2/Anthony123/61674.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
 http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
-https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c42Wwmvx/image-2026-06-21-00-36-26.png", Match Tv 
@@ -688,6 +677,10 @@ https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
+http://starhub.pro/live/Anthony2/Anthony123/61674.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV HD
+https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 
