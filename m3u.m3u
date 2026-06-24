@@ -84,32 +84,60 @@ https://cdn-tt.pages.dev/ch5.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
+http://114.130.57.233:8080/BTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 http://198.195.239.50:8095/btv/video.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 #http://198.195.239.50:8095/btv/index.m3u8
-#http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
+#http://114.130.57.233:8080/Gazi-TV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+http://114.130.57.233:8080/Gazi-TV/video.m3u8?token=SkQuhAXZxgBan1
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
+http://114.130.57.233:8080/Fifa-1/video.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/Fifa-1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports1 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports2 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/TsportHD/video.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports3 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports4 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
+http://114.130.57.233:8080/T-Sports/video.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 http://198.195.239.50:8095/tsports/index.m3u8
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports5 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
+#http://114.130.57.233:8080/T-sports-64/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+http://114.130.57.233:8080/T-sports-64/video.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports6 HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 https://mflixott.com/tv/dd/live.php?id=270
 
 
@@ -119,6 +147,7 @@ http://198.195.239.50:8095/somoyTv/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy2 HD
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy3 HD
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
@@ -181,8 +210,14 @@ https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&ci
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/d191zj0M/image-2026-06-25-00-53-02.png", PTV HD
 http://198.195.239.50:8095/Fifa-1/video.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/d191zj0M/image-2026-06-25-00-53-02.png", PTV HD
 #http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-#http://198.195.239.50:8095/ptv/index.m3u8
+http://198.195.239.50:8095/ptv/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/d191zj0M/image-2026-06-25-00-53-02.png", PTV HD
+http://114.130.57.233:8080/PTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/PTV/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/d191zj0M/image-2026-06-25-00-53-02.png", PTV HD
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
@@ -339,9 +374,13 @@ https://restream-bay.vercel.app/chuchhi?id=206315&format=.m3u8
 https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", En Unite8 2 FHD
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", En Unite8 2 FHD
 http://198.195.239.50:8095/unt-s/video.m3u8
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", En Unite8 2 FHD
+#http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+http://114.130.57.233:8080/unitedsports-bdixbd.net/video.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/rFshZf1j/image-2026-06-16-01-23-32.png", En Unite8 2 FHD
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/nsW1DJXh/image-2026-06-14-23-07-31.png", Dazn FHD
