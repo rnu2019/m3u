@@ -2,7 +2,7 @@
 
 
 
-#--------------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP1 FHD
 https://cdn-tt.pages.dev/ch1.m3u8
 
@@ -16,7 +16,7 @@ https://cdn-tt.pages.dev/ch1.m3u8
 
 #https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
 
-#http://sm-monirul.top/tof/live/gervsivo/index.m3u8
+#http://sm-monirul.top/tof/live/toffee1/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP2 FHD
@@ -26,7 +26,7 @@ https://cdn-tt.pages.dev/ch2.m3u8
 
 #https://kazimmt.ami.bd/playlist/TF/TF-2.m3u8
 
-#http://sm-monirul.top/tof/live/ecuvscur/index.m3u8
+#http://sm-monirul.top/tof/live/toffee2/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP3 FHD
@@ -48,7 +48,7 @@ https://cdn-tt.pages.dev/ch3.m3u8
 
 #https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
 
-#http://sm-monirul.top/tof/live/tunvsjap/index.m3u8
+#http://sm-monirul.top/tof/live/toffee3/index.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP4 FHD
@@ -77,23 +77,34 @@ https://cdn-tt.pages.dev/ch5.m3u8
 
 #https://sm-monirul.top/tof/live/toffee5/index.m3u8
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/C16H8xx7/Gemini-Generated-Image-rmccymrmccymrmcc.png", ToffeeP6 FHD
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
+
 #EXTINF:-1 tvg-name="Toffee" group-title="World_Cup",Toffee
 #https://sm-monirul.top/toffee/stream.php
-#--------------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------
 
+#---------------------------------------------------------------------------------
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope+ FHD
-http://sm-monirul.top/ott/bioscope/index.m3u8
+http://sm-monirul.top/fifa/bioscope/index.m3u8
+#http://sm-monirul.top/ott/bioscope/index.m3u8
 #https://bioscope.sm-monirulislam-exp.workers.dev/index.m3u8
 #https://sm-monirul.top/ultra_restream/bioscope/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope+ FHD
+http://sm-monirul.top/fifa/bioscope1/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/p6jXPkYF/image-2026-06-14-23-29-27.png", Bioscope+ FHD
 #EXTVLCOPT:http-host=fifa.keralive.workers.dev
 #EXTVLCOPT:http-origin=https://tulnit.com
 #EXTVLCOPT:http-referrer=https://tulnit.com/
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+#---------------------------------------------------------------------------------
 
+#---------------------------------------------------------------------------------
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k5MSY0F7/image-2026-06-20-03-17-32.png" , Iscreen 
 https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|Referer=https://iscreen.com.bd/
+#https://sm-monirul.top/fifa/iscreen/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k5MSY0F7/image-2026-06-20-03-17-32.png" , Iscreen 
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
@@ -111,10 +122,7 @@ https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3
 https://m3u-tvb.pages.dev/ics.m3u8
 #https://picocloud.thebosstv.com/main2/robi_fifa_main_abr/playlist.m3u8
 
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
-https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
-
+#---------------------------------------------------------------------------------
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 http://114.130.57.233:8080/BTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
@@ -136,10 +144,20 @@ http://114.130.57.233:8080/Gazi-TV/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/CMBrXkx0/image-2026-06-18-12-17-46.png", BTV HD
 http://114.130.57.233:8080/Fifa-1/video.m3u8?token=SkQuhAXZxgBan1
 #http://114.130.57.233:8080/Fifa-1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#---------------------------------------------------------------------------------
 
+#---------------------------------------------------------------------------------
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports FHD
+http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports FHD
+http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 https://trs1.aynaott.com/tsports/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
+http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 #https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
@@ -171,8 +189,9 @@ http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
 https://mflixott.com/tv/dd/live.php?id=270
+#---------------------------------------------------------------------------------
 
-
+#---------------------------------------------------------------------------------
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy1 HD
 http://198.195.239.50:8095/somoyTv/index.m3u8
 #http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
@@ -187,20 +206,9 @@ http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/xSDGy1dW/image-2026-06-15-22-59-30.png", Somoy4 HD
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#---------------------------------------------------------------------------------
 
-
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
-
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mrb4nyJg/image-2026-06-16-23-27-40.png", M6 Spports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
-
-
+#---------------------------------------------------------------------------------
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/d191zj0M/image-2026-06-25-00-53-02.png", PTV HD
 http://198.195.239.50:8095/Fifa-1/video.m3u8
 
@@ -220,6 +228,7 @@ http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/d191zj0M/image-2026-06-25-00-53-02.png", PTV HD
 #https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#---------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -450,6 +459,10 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
 http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15108
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" ,OKEY TV
+http://iptv.kilas7.com:80/kaukia/asdfrewq/32
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/15c0vcmz/image-2026-06-22-21-42-16.png", CCTV
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -519,10 +532,6 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641619&extension
 #Playback failed, match er somoy check kore dekha
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", T Sports FHD
-http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg", Tsports HD
-http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
 
 
 
@@ -530,16 +539,16 @@ http://starhub.pro/live/farhat-3379/67897-913379/130714.ts
 
 
 
-#EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" ,OKEY TV
-http://iptv.kilas7.com:80/kaukia/asdfrewq/32
-#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/15c0vcmz/image-2026-06-22-21-42-16.png", CCTV
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
 
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co.com/yB6fn1FH/65f05b62c9baf02486cb6ce8-Tapmad.png", Tapmad
 
 #--------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1, Ice Sports
+http://ubuntu.moonplex.net:8080/TSports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/mDKJs571/image-2026-06-17-06-00-28.png",Bein 3Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744519.ts
 
@@ -556,5 +565,3 @@ http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744523.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744529.ts
 
-#EXTINF:-1, Ice Sports
-http://ubuntu.moonplex.net:8080/TSports_HD/tracks-v1a1/mono.m3u8
