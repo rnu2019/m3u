@@ -502,7 +502,14 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/90B210rB/image-2026-06-22-02-41-06.png" , TVRI Nasional
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
+#EXTINF:-1, ORF1 HD
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn6.m3u8
 
+#EXTINF:-1, TrT1
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
+
+#EXTINF:-1, iTV Bein
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" ,RTM SPORT(K7)
@@ -557,12 +564,14 @@ https://andro.226503.xyz/checklist/androstreamliveexn.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" ,OKEY TV
 http://iptv.kilas7.com:80/kaukia/asdfrewq/32
+
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/15c0vcmz/image-2026-06-22-21-42-16.png", CCTV
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/15c0vcmz/image-2026-06-22-21-42-16.png", CCTV
+https://www.rtmpcdn.com/live/cctv5.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/XvkYX9sF/image-2026-06-17-06-16-10.png", Caze FHD
