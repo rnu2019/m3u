@@ -283,7 +283,15 @@ http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
 https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="WCup", bein1max
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+#EXTVLCOPT:http-origin=https://streamscenter.online
+https://edge2caster.pro/hls/eJmauBDCIf.m3u8?
 
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
+#EXTVLCOPT:http-referrer=https://streamscenter.online
+#EXTVLCOPT:http-origin=https://streamscenter.online
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
 https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
@@ -321,11 +329,11 @@ https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=178152449
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max FHD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744526.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max FHD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744532.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/tCw1tsPy/image-2026-06-22-21-58-57.png", Bein 4Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744520.ts
 
 
@@ -338,19 +346,19 @@ http://114.130.57.233:8080/unitedsports-bdixbd.net/video.m3u8?token=SkQuhAXZxgBa
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max FHD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744533.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max FHD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744527.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/c1pKPHYT/image-2026-06-16-01-13-05.png", Bein 5Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744521.ts
 
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png", Supersport HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png",Supersport HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png",Supersport HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png",Supersport HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/8cRjNhQW/image-2026-06-17-02-14-37.png",Supersport HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 
@@ -360,9 +368,9 @@ https://tmaxapp.site/rds.m3u8
 #EXTINF:-1  group-title="WCup",RDS 2
 https://tmaxapp.site/rds2.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max FHD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744528.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max HD
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744522.ts
 
 #EXTINF:-1 , unknown
@@ -531,13 +539,19 @@ http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="WCup", fox
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+#EXTVLCOPT:http-origin=https://streamscenter.online
+https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png", Fox HD
 http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
 http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15108
-
+#EXTINF:-1, FOX
+#EXTVLCOPT:http-referrer=https://streamscenter.online
+#EXTVLCOPT:http-origin=https://streamscenter.online
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.imgur.com/noB2fg1.png",Fox
 https://andro.226503.xyz/checklist/androstreamliveexn.m3u8
 
