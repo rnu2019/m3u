@@ -132,10 +132,10 @@ https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315f
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k5MSY0F7/image-2026-06-20-03-17-32.png" , Iscreen4
-http://exp.sm-monirul.top/ultra_restream/iscreen/index.m3u8
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|Referer=https://iscreen.com.bd/
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/k5MSY0F7/image-2026-06-20-03-17-32.png" , Iscreen5
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|Referer=https://iscreen.com.bd/
+http://exp.sm-monirul.top/ultra_restream/iscreen/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zNfs2Yk/image-2026-06-20-03-18-34.png" , Binge+
 #KODIPROP:inputstream.adaptive.manifest_type=hls
