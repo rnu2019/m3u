@@ -256,8 +256,14 @@ http://premiumtvs.space/live/jen12345/Jen54321/89.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/d191zj0M/image-2026-06-25-00-53-02.png", PTV6 HD
 #https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #---------------------------------------------------------------------------------
-#EXTINF:-1, SporTV
+#EXTINF:-1, SportTV
 http://94.130.32.19:8080/sporttv1/index.m3u8
+#EXTINF:-1 ,SportTV 2
+https://tmaxapp.site/sporttv2.m3u8
+#EXTINF:-1 ,SportTV 3
+https://tmaxapp.site/sporttv3.m3u8
+#EXTINF:-1,WinSports HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/m275WhPY/image-2026-06-17-02-21-18.png", Bein 1 FHD
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -269,6 +275,8 @@ http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/146122.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max FHD
+https://tmaxapp.site/beinmax1.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
@@ -276,7 +284,8 @@ https://cp11.adabmedia.com/hls2/sport.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.ibb.co/6cnH3gVZ/image-2026-06-15-23-04-58.png", Bein 1Max HD
 https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
 
-
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
+https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO FHD
 http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1648
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/wTSC5hDH/image-2026-06-17-01-21-30.png", TELEMUNDO  FHD
@@ -296,6 +305,8 @@ http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744524.ts
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744530.ts
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744518.ts
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max HD
+https://tmaxapp.site/beinmax2.m3u8
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/VsxS26MT/image-2026-06-16-01-13-05.png", Bein 2Max SD
 http://ultav3.me:80/play/live.php?mac=00:1A:79:44:95:87&stream=196472&extension=m3u8
 
@@ -343,12 +354,49 @@ http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 
+#EXTINF:-1  group-title="WCup",RDS
+https://tmaxapp.site/rds.m3u8
+
+#EXTINF:-1  group-title="WCup",RDS 2
+https://tmaxapp.site/rds2.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max FHD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744528.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fbZRBmbb/image-2026-06-22-22-00-21.png", Bein 6Max HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/744522.ts
 
+#EXTINF:-1 , unknown
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.ts
 
+#EXTINF:-1  group-title="WCup",Nova Sports 1
+https://tmaxapp.site/novasports1.m3u8
+
+#EXTINF:-1  group-title="WCup",Nova Sports 2
+https://tmaxapp.site/novasports2.m3u8
+
+#EXTINF:-1  group-title="WCup",Nova Sports 3
+https://tmaxapp.site/novasports3.m3u8
+
+#EXTINF:-1  group-title="WCup",Nova Sports 4
+https://tmaxapp.site/novasports4.m3u8
+
+#EXTINF:-1  group-title="WCup",Nova Sports 5
+https://tmaxapp.site/novasports5.m3u8
+
+#EXTINF:-1  group-title="WCup",Nova Sports 6
+https://tmaxapp.site/novasports6.m3u8
+
+#EXTINF:-1  group-title="WCup",ITV 1
+https://tmaxapp.site/itv1.m3u8
+
+#EXTINF:-1  group-title="WCup",ITV 2
+https://tmaxapp.site/itv2.m3u8
+
+#EXTINF:-1  group-title="WCup",ITV 3
+https://tmaxapp.site/itv3.m3u8
+
+#EXTINF:-1  group-title="WCup",ITV 4
+https://tmaxapp.site/itv4.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup", TSN
 https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -368,10 +416,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN1 HD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN1 HD
 http://stalker.hakunamata.workers.dev/play/258/index.m3u8
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN2 HD
 http://stalker.hakunamata.workers.dev/play/259/index.m3u8
+
+#EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN2 HD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 
 #EXTINF:-1 group-title="WCup" tvg-logo="https://i.postimg.cc/BQ1t5cg0/image-2026-06-22-02-36-17.png" group-title="WCup",TSN3 HD
 http://stalker.hakunamata.workers.dev/play/260/index.m3u8
@@ -559,7 +613,8 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1641619&extension
 #--------------------------------------------------------------------------------------------------------------------------------------------
 #Playback failed, match er somoy check kore dekha
 
-
+#EXTINF:-1  group-title="WCup",RTL DE
+https://tmaxapp.site/rtlde.m3u8
 
 
 
